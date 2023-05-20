@@ -1,4 +1,9 @@
 # Interview-Q_A
 
-## HTML 
+## HTML
+
 https://github.com/aa-nadim/Interview-Q_A/tree/main/Technical/Languages/HTML
+
+# JavaScript
+
+https://github.com/aa-nadim/Interview-Q_A/tree/main/Technical/Languages/JavaScript
