@@ -2,7 +2,7 @@
 
 ## Graph
 
-https://github.com/aa-nadim/Interview-Q_A/tree/main/Problem Solving/Graph
+https://github.com/aa-nadim/Interview-Q_A/tree/main/Problem-solving/Graph
 
 ## HTML
 
